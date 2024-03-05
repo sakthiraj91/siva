@@ -10,8 +10,10 @@ public class Sakthi {
 		// TODO Auto-generated method stub
 
 	}
+	public void m4(){
+  }
 	public void m3() {
 		// TODO Auto-generated method stub
 
-	}
+}
 }
