@@ -14,6 +14,10 @@ public class Sakthi {
   }
 	public void m3() {
 		// TODO Auto-generated method stub
+	}
+		public void anjana() {
+			
+		}
 
 }
-}
+
